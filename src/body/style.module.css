@@ -1,0 +1,31 @@
+.bodydiv{
+    width:100%;
+}
+
+.left{
+    width: 23%;
+    float: left;
+    /* background-color: tomato; */
+    padding: 10px;
+}
+
+.right{
+    width: 77%;
+    float: right;
+    
+}
+
+.box {
+    padding: 10px;
+}
+.headding{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+.product {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;  
+
+}
